@@ -1,5 +1,5 @@
-STUDI KASUS 2 : SISTEM RESERVASI PARKIR OTOMATIS 
-Anggota Kelompok 2:
+# STUDI KASUS 2 : SISTEM RESERVASI PARKIR OTOMATIS 
+# Anggota Kelompok 2:
 1.	Melzaqi Al-Faroh            (G1A025035)
 2.	Aldi Mulya Fajar            (G1A025091)
 3.	M. Rafif Al-Falah           (G1A025116)
